@@ -1,4 +1,4 @@
-#VulnerabilityScanner
+VulnerabilityScanner
 
 Project Objectives:
 The Vulnerability Scanner is a Python-based tool designed to automate the process of identifying open ports, detecting services running on them, and cross-referencing those services with known vulnerabilities. This project demonstrates the use of Python for security automation, specifically targeting authorized systems like "localhost" and "scanme.nmap.org".
